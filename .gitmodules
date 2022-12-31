@@ -1,0 +1,9 @@
+[submodule "student-api"]
+	path = student-api
+	url = https://github.com/gasil96/student-api
+[submodule "teacher-api"]
+	path = teacher-api
+	url = https://github.com/gasil96/teacher-api
+[submodule "matrioska-api"]
+	path = matrioska-api
+	url = https://github.com/gasil96/matrioska-api
